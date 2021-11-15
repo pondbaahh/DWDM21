@@ -46,8 +46,8 @@ Group Name: SUKUNA
   * [Visualization](https://github.com/pondbaahh/DWDM21/blob/main/Visualization.ipynb)
      - Scatter plot
      - Plot
-        *Bar Chart
-        *Histogram
+         * Bar Chart
+         * Histogram
    
   * [Distance Numpy](https://github.com/pondbaahh/DWDM21/blob/main/Distance_Numpy.ipynb)
      - Numpy Array
@@ -58,7 +58,7 @@ Group Name: SUKUNA
      - Quiz6
      - Hw 11
      - Distance of Binary Value
-  * [ชีทเรียน Chapter2](https://github.com/pondbaahh/DWDM21/blob/main/Chapter2.ipynb)
+  * [ชีทเรียน Chapter2 + โน้ต](https://github.com/pondbaahh/DWDM21/blob/main/Chapter2.ipynb)
 
 
 * [บทที่ 3 Data Preprocessing](https://github.com/pondbaahh/DWDM21/blob/main/Data_Preprocessing(Chapter_3).ipynb)
@@ -93,7 +93,7 @@ Group Name: SUKUNA
   * HW + Quiz
     - [PD] save ตารางไปใช้ที่อื่น
     - [PD]การสร้างตาราง
-  * [ชีทเรียนChapter3](https://github.com/pondbaahh/DWDM21/blob/main/03Preprocessing.pdf)
+  * [ชีทเรียนChapter3 + โน้ต](https://github.com/pondbaahh/DWDM21/blob/main/03Preprocessing.pdf)
 
 
 
@@ -105,7 +105,7 @@ Group Name: SUKUNA
   * Data Warehouse Design and Usage
   * Data Warehouse Implementation
   * Summary
-  * [ชีทเรียนChapter4](https://github.com/pondbaahh/DWDM21/blob/main/Chapter%204.pdf)
+  * [ชีทเรียนChapter4 + โน้ต](https://github.com/pondbaahh/DWDM21/blob/main/Chapter%204.pdf)
 
 
 
@@ -120,7 +120,7 @@ Group Name: SUKUNA
       - Apriori
       - Frequence Itemsets
   * Quiz 7
-  * [ชีทเรียนChapter5](https://github.com/pondbaahh/DWDM21/blob/main/Chapter%206.pdf)
+  * [ชีทเรียนChapter5 + โน้ต](https://github.com/pondbaahh/DWDM21/blob/main/Chapter%206.pdf)
  
  
  
@@ -146,8 +146,8 @@ Group Name: SUKUNA
        *define
        *train
        *evaluation
-  * [ชีทเรียนChapter6.1](https://github.com/pondbaahh/DWDM21/blob/main/Chapter%208.pdf)
-  * [ชีทเรียนChapter6.2](https://github.com/pondbaahh/DWDM21/blob/main/Chap7%20Neural%20Network%20%26%20Confusion%20Matrix.pdf)
+  * [ชีทเรียนChapter6.1 + โน้ต](https://github.com/pondbaahh/DWDM21/blob/main/Chapter%208.pdf)
+  * [ชีทเรียนChapter6.2 + โน้ต](https://github.com/pondbaahh/DWDM21/blob/main/Chap7%20Neural%20Network%20%26%20Confusion%20Matrix.pdf)
   * [การบ้านคำนวณมือ](https://github.com/pondbaahh/DWDM21/blob/main/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%20chapter8.pdf)
 
 
@@ -164,7 +164,7 @@ Group Name: SUKUNA
       - 5 clusters
       - Color Quantization
           * นับจำนวนสี
-  * [ชีทเรียนChapter7](https://github.com/pondbaahh/DWDM21/blob/main/10ClusBasic.pdf)
+  * [ชีทเรียนChapter7 + โน้ต](https://github.com/pondbaahh/DWDM21/blob/main/10ClusBasic.pdf)
  
 
 
