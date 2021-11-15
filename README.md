@@ -16,7 +16,7 @@ Group Name: SUKUNA
 #สารบัญเนื้อหา
 วิชา Data Warehouse & Data Mining
 
-* [บทที่ 1](https://github.com/pondbaahh/DWDM21/blob/main/Chapter_1.ipynb)
+* [บทที่ 1 Introduction](https://github.com/pondbaahh/DWDM21/blob/main/Chapter_1.ipynb)
   - ความหมายของ Data mining
   - มุมมองหลายมิติของ Data mining
   - ประเภทของข้อมูล
@@ -59,7 +59,8 @@ Group Name: SUKUNA
     
  * [ชีทเรียน Chapter2](https://github.com/pondbaahh/DWDM21/blob/main/Chapter2.ipynb)
 
-* [บทที่ 3](https://github.com/pondbaahh/DWDM21/blob/main/Data_Preprocessing(Chapter_3).ipynb)
+
+* [บทที่ 3 Data Preprocessing](https://github.com/pondbaahh/DWDM21/blob/main/Data_Preprocessing(Chapter_3).ipynb)
  * Meta data
  * ชี้ข้อมูลในตาราง
     - ชี้แบบธรรมดา
@@ -92,6 +93,8 @@ Group Name: SUKUNA
     - [PD]การสร้างตาราง
  * [ชีทเรียนChapter3](https://github.com/pondbaahh/DWDM21/blob/main/03Preprocessing.pdf)
 
+
+
 * [บทที่ 4 Data Warehousing and on-line Analytical Processing](https://github.com/pondbaahh/DWDM21/blob/main/Chapter%204.pdf)
  * Data Warehouse Basic Concepts
  * Data Warehouse Modeling
@@ -101,6 +104,8 @@ Group Name: SUKUNA
  * Data Warehouse Implementation
  * Summary
  * [ชีทเรียนChapter4](https://github.com/pondbaahh/DWDM21/blob/main/Chapter%204.pdf)
+
+
 
 * [บทที่ 5 Associationn Rules](https://github.com/pondbaahh/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
  * ความหมาของ Association Rule
@@ -114,6 +119,8 @@ Group Name: SUKUNA
    - Frequence Itemsets
  * Quiz 7
  * [ชีทเรียนChapter5](https://github.com/pondbaahh/DWDM21/blob/main/Chapter%206.pdf)
+ 
+ 
  
 * บทที่ 6 Classification
  * [Decision tree](https://github.com/pondbaahh/DWDM21/blob/main/Chapter7_Classification(Decision_Tree).ipynb)
@@ -142,6 +149,7 @@ Group Name: SUKUNA
 * [การบ้านคำนวณมือ](https://github.com/pondbaahh/DWDM21/blob/main/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%20chapter8.pdf)
 
 
+
 * บทที่ 7 [Clustering](https://github.com/pondbaahh/DWDM21/blob/main/Chap8_Clustering.ipynb)
  * K-means
     - Generate Data
@@ -158,7 +166,9 @@ Group Name: SUKUNA
  * [ชีทเรียนChapter7](https://github.com/pondbaahh/DWDM21/blob/main/10ClusBasic.pdf)
  
 
+
 * [MiniExam](https://github.com/pondbaahh/DWDM21/blob/main/MiniExam.ipynb)
+
 
 * [Final Project](https://github.com/pondbaahh/DWDM21/blob/main/Project_SUKUNA.ipynb)
   - [slide present project](https://github.com/pondbaahh/DWDM21/blob/main/Project.pdf)
