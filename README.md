@@ -154,8 +154,8 @@ Group Name: SUKUNA
 * บทที่ 7 [Clustering](https://github.com/pondbaahh/DWDM21/blob/main/Chap8_Clustering.ipynb)
    * K-means
    * Generate Data
-     * Explore data
-     * Clustering
+   * Explore data
+   * Clustering
       - import
       - define
       - train - predict
@@ -163,7 +163,7 @@ Group Name: SUKUNA
       - 4 clusters
       - 5 clusters
       - Color Quantization
-          - นับจำนวนสี
+          * นับจำนวนสี
   * [ชีทเรียนChapter7](https://github.com/pondbaahh/DWDM21/blob/main/10ClusBasic.pdf)
  
 
