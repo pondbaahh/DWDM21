@@ -46,8 +46,8 @@ Group Name: SUKUNA
   * [Visualization](https://github.com/pondbaahh/DWDM21/blob/main/Visualization.ipynb)
      - Scatter plot
      - Plot
-       - Bar Chart
-       - Histogram
+        *Bar Chart
+        *Histogram
    
   * [Distance Numpy](https://github.com/pondbaahh/DWDM21/blob/main/Distance_Numpy.ipynb)
      - Numpy Array
@@ -171,7 +171,7 @@ Group Name: SUKUNA
 * [MiniExam](https://github.com/pondbaahh/DWDM21/blob/main/MiniExam.ipynb)
 
 * [Final Project](https://github.com/pondbaahh/DWDM21/blob/main/Project_SUKUNA.ipynb)
-   * [slide present project](https://github.com/pondbaahh/DWDM21/blob/main/Project.pdf)
+  * [slide present project](https://github.com/pondbaahh/DWDM21/blob/main/Project.pdf)
   
 
 
