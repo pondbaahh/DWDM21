@@ -40,19 +40,19 @@ Group Name: SUKUNA
          - Function
     
   * [plot](https://github.com/pondbaahh/DWDM21/blob/main/Data102.ipynb)
-            - Boxplot
-            - Time Series Plot
+          - Boxplot
+          - Time Series Plot
     
   * [Visualization](https://github.com/pondbaahh/DWDM21/blob/main/Visualization.ipynb)
-             - Scatter plot
-             - Plot
-             - Bar Chart
-             - Histogram
-    
+          - Scatter plot
+          - Plot
+          - Bar Chart
+          - Histogram
+   
    * [Distance Numpy](https://github.com/pondbaahh/DWDM21/blob/main/Distance_Numpy.ipynb)
-              - Numpy Array
-              - Quiz กลุ่ม
-              - Distance matrix
+          - Numpy Array
+          - Quiz กลุ่ม
+           - Distance matrix
               - Euclidean Distance (L2-norm)
               - Manhattan Distance (L1-norm)
               - Quiz6
